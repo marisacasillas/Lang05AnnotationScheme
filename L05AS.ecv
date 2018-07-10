@@ -24,13 +24,13 @@
     <CONTROLLED_VOCABULARY CV_ID="xds">
         <DESCRIPTION LANG_REF="und">Classifications for the addressee of non-target-child speech: Is the speech directed to a child, an adult, or both?</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE DESCRIPTION=“Target child only” LANG_REF="und">T</CVE_VALUE>
+            <CVE_VALUE DESCRIPTION="Target child only" LANG_REF="und">T</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid1”>
-            <CVE_VALUE DESCRIPTION=“Sibling only” LANG_REF="und">S</CVE_VALUE>
+            <CVE_VALUE DESCRIPTION="Sibling only" LANG_REF="und">S</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid2”>
-            <CVE_VALUE DESCRIPTION=“Any child addressee(s)” LANG_REF="und">C</CVE_VALUE>
+            <CVE_VALUE DESCRIPTION="Any child addressee(s)" LANG_REF="und">C</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid3”>
             <CVE_VALUE DESCRIPTION="1+ adult addressee" LANG_REF="und">A</CVE_VALUE>
