@@ -23,37 +23,135 @@
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
     </pref>
+    <prefGroup key="CV.ML.Prefs">
+        <prefGroup key="mwu">
+            <prefGroup key="cveid1">
+                <pref key="KeyCode">
+                    <Int>49</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid0">
+                <pref key="KeyCode">
+                    <Int>77</Int>
+                </pref>
+            </prefGroup>
+        </prefGroup>
+        <prefGroup key="lex">
+            <prefGroup key="cveid1">
+                <pref key="KeyCode">
+                    <Int>48</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid0">
+                <pref key="KeyCode">
+                    <Int>87</Int>
+                </pref>
+            </prefGroup>
+        </prefGroup>
+        <prefGroup key="xds">
+            <prefGroup key="cveid1">
+                <pref key="KeyCode">
+                    <Int>83</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid2">
+                <pref key="KeyCode">
+                    <Int>67</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid3">
+                <pref key="KeyCode">
+                    <Int>65</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid4">
+                <pref key="KeyCode">
+                    <Int>66</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid0">
+                <pref key="KeyCode">
+                    <Int>84</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid5">
+                <pref key="KeyCode">
+                    <Int>80</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid6">
+                <pref key="KeyCode">
+                    <Int>79</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid8">
+                <pref key="KeyCode">
+                    <Int>85</Int>
+                </pref>
+            </prefGroup>
+        </prefGroup>
+        <prefGroup key="vcm">
+            <prefGroup key="cveid2">
+                <pref key="KeyCode">
+                    <Int>89</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid3">
+                <pref key="KeyCode">
+                    <Int>78</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid4">
+                <pref key="KeyCode">
+                    <Int>67</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid0">
+                <pref key="KeyCode">
+                    <Int>76</Int>
+                </pref>
+            </prefGroup>
+            <prefGroup key="cveid5">
+                <pref key="KeyCode">
+                    <Int>85</Int>
+                </pref>
+            </prefGroup>
+        </prefGroup>
+    </prefGroup>
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">2134,1053</Object>
+    </pref>
     <prefGroup key="TierColors">
-        <pref key="%sit">
-            <Object class="java.awt.Color">0,0,90</Object>
-        </pref>
         <pref key="CHI">
             <Object class="java.awt.Color">160,160,90</Object>
         </pref>
-        <pref key="@Transcriber">
-            <Object class="java.awt.Color">90,0,160</Object>
+        <pref key="%sit">
+            <Object class="java.awt.Color">0,0,90</Object>
         </pref>
         <pref key="FA2">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
+        <pref key="@Transcriber">
+            <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
         <pref key="FA1">
             <Object class="java.awt.Color">0,90,160</Object>
         </pref>
-        <pref key="%act">
-            <Object class="java.awt.Color">90,90,0</Object>
+        <pref key="@Situation">
+            <Object class="java.awt.Color">160,0,0</Object>
         </pref>
         <pref key="@Comment">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
-        <pref key="@Situation">
-            <Object class="java.awt.Color">160,0,0</Object>
+        <pref key="%act">
+            <Object class="java.awt.Color">90,90,0</Object>
         </pref>
         <pref key="%com">
             <Object class="java.awt.Color">160,0,90</Object>
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">233,23</Object>
+        <Object class="java.awt.Point">18,23</Object>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>@Situation</String>
